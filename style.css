@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.avatar_img{
+    border-radius: 50%;
+    width: 11rem;
+  }
+.div_img{
+    margin: 50px auto 10px auto;
+    text-align: center;
+    border: 0;
+}
+.name_header{
+    line-height: 0.1;
+    font-size: 4.8rem;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nome{
+    font-size: 65%;
+    text-transform: lowercase;
+    font-weight: 300;
+    display: block;
+    margin: 30px auto 5px auto;
+    color: #939393;
+}
+.sobrenome{
+    color: #F8BB10;
+    text-transform: uppercase;
+    font-size: 65%;
+    display: block;
+    margin: 45px auto 1px auto;
+}
